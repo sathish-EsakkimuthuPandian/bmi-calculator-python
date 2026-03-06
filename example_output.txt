@@ -1,0 +1,7 @@
+Enter your name: Sathish
+Enter your weight in kg: 87
+Enter your height in meters: 1.6
+
+Dear Sathish!!!
+Welcome to Guvi Fitness Center!
+Your BMI is 33.98 and your BMI Status is Obesity
