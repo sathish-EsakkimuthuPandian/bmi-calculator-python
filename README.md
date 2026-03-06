@@ -1,5 +1,4 @@
-
-# BMI Calculator with Status Classification
+# bmi-calculator-python
 
 ## Project Overview
 
