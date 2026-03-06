@@ -32,7 +32,7 @@ BMI = Weight (kg) / Height (m)^2
 2. Open terminal in the project folder
 3. Run the program
 
-"""python bmi_calculator.py"""
+"""bmi_calculator.py"""
 
 
 ## Example Output
